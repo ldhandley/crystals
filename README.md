@@ -1,3 +1,4 @@
 crystals
 ========
-README text here.
+`crystals` is a CodeSpells mod! Learn more at https://codespells.org.
+
